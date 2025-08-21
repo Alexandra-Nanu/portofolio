@@ -21,3 +21,5 @@ An ASP.NET Core MVC project that manages coffee inventory, orders, and customers
 A PHP-based web application designed to manage events, jobs, mentorship programs, and user accounts. It enables CRUD operations for structured data management, offering an interactive dashboard with secure authentication.
 ### [Laravel Web App - Women Techpower](https://github.com/Alexandra-Nanu/laravel.git)
 A Laravel-based web application that manages events, jobs, mentorship programs, and user authentication. It includes CRUD operations and role-based access control for dynamic content management.
+### [NodeJS Web App - Women Techpower](https://github.com/Alexandra-Nanu/WEB__nodejs.git)
+A Node.js web application that provides user authentication and database management for handling events, job listings, and mentorship programs. It supports secure login and CRUD operations.
