@@ -23,3 +23,5 @@ A PHP-based web application designed to manage events, jobs, mentorship programs
 A Laravel-based web application that manages events, jobs, mentorship programs, and user authentication. It includes CRUD operations and role-based access control for dynamic content management.
 ### [NodeJS Web App - Women Techpower](https://github.com/Alexandra-Nanu/WEB__nodejs.git)
 A Node.js web application that provides user authentication and database management for handling events, job listings, and mentorship programs. It supports secure login and CRUD operations.
+### [Comparative Analysis with the use of Tableau](https://github.com/Alexandra-Nanu/BI--Tableau.git)
+A project that analyzes the economic performance of companies in the IT and Insurance sectors located in Cluj-Napoca, Turda, and Dej (Romania) during the period 2018–2021, using Tableau Prep for data preprocessing and Tableau Desktop for interactive dashboards and visual analytics.
