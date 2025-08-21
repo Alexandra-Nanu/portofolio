@@ -15,3 +15,5 @@ An Artifical Intelligence Project, introducing MiniMax, Alpha-Beta Pruning and E
 An Artifical Intelligence Project, applying Value Iteration, Q-Learning and Approximate Q-Learning to teach Pacman adaptive strategies through experience, improving long-term performance.
 ### [Big Data – Binary Prediction of Retail Order Profitability](https://github.com/Alexandra-Nanu/BIG--Order_Profitability.git)
 A project that aims to predict whether customer orders placed in a retail environment are profitable or not, using binary classification models trained on the cleaned Superstore dataset from Kaggle, incorporating features such as sales, discounts, and product categories.
+### [ASP .NET Coffee Warehouse](https://github.com/Alexandra-Nanu/Poiect_cafea.git)
+An ASP.NET Core MVC project that manages coffee inventory, orders, and customers using Entity Framework Core and Razor Pages, providing full CRUD functionality and a structured backend.
