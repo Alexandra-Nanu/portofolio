@@ -17,3 +17,7 @@ An Artifical Intelligence Project, applying Value Iteration, Q-Learning and Appr
 A project that aims to predict whether customer orders placed in a retail environment are profitable or not, using binary classification models trained on the cleaned Superstore dataset from Kaggle, incorporating features such as sales, discounts, and product categories.
 ### [ASP .NET Coffee Warehouse](https://github.com/Alexandra-Nanu/Poiect_cafea.git)
 An ASP.NET Core MVC project that manages coffee inventory, orders, and customers using Entity Framework Core and Razor Pages, providing full CRUD functionality and a structured backend.
+### [PHP Web App - Women Techpower](https://github.com/Alexandra-Nanu/WEB__Project1.git)
+A PHP-based web application designed to manage events, jobs, mentorship programs, and user accounts. It enables CRUD operations for structured data management, offering an interactive dashboard with secure authentication.
+### [Laravel Web App - Women Techpower](https://github.com/Alexandra-Nanu/laravel.git)
+A Laravel-based web application that manages events, jobs, mentorship programs, and user authentication. It includes CRUD operations and role-based access control for dynamic content management.
