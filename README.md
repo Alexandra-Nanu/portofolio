@@ -25,3 +25,6 @@ A Laravel-based web application that manages events, jobs, mentorship programs, 
 A Node.js web application that provides user authentication and database management for handling events, job listings, and mentorship programs. It supports secure login and CRUD operations.
 ### [Comparative Analysis with the use of Tableau](https://github.com/Alexandra-Nanu/BI--Tableau.git)
 A project that analyzes the economic performance of companies in the IT and Insurance sectors located in Cluj-Napoca, Turda, and Dej (Romania) during the period 2018–2021, using Tableau Prep for data preprocessing and Tableau Desktop for interactive dashboards and visual analytics.
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/alexandra-nanu-088a712b9/)
