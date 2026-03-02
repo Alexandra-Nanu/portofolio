@@ -5,6 +5,10 @@ In order to acces a project, click on its name.
 ## Projects
 ### RNN-based Financial Time Series Prediction – code NOT public yet
 An empirical study using Recurrent Neural Networks (LSTM, GRU, Bidirectional RNNs) for predicting stock price movements based on historical market data. Built for academic research in financial forecasting, with performance evaluation through MAE and MSE, and analysis of model configurations for economic relevance.
+### [Distributed Job Scheduler](https://github.com/meli1230/DS--Project.git)
+A deep learning project on machine-generated code detection in multilingual settings, focusing on cross-language generalization.
+### [Machine-Generated Code Detection](https://github.com/meli1230/DL--Project.git)
+A deep learning project on machine-generated code detection in multilingual settings, focusing on cross-language generalization.
 ### [Artificial Intelligence - Pacman Search](https://github.com/Alexandra-Nanu/AI--Project_2.git)
 An Artifical Intelligence Project, using DFS, BFS, UCS and A* to help Pacman navigate mazes efficiently, optimizing path collection and path finding.
 ### [Artificial Intelligence - Pacman Complex Search](https://github.com/Alexandra-Nanu/AI--Project_3.git)
